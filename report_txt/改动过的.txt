@@ -1,0 +1,23 @@
+----改动过的----
+('B-AL3', 118): {('unitPrice', 368.94)}
+('B-AL3', 160): {('unitPrice', 368.94)}
+(None, None): {('amount', '=SUM(F7:F133)'), ('name', None)}
+('B-AL3', 147): {('unitPrice', 368.94)}
+('D3ACxf1-1', 67): {('unitPrice', 6343.29)}
+('5~20层主机配电箱', 233): {('unitPrice', 13408.36)}
+('D3ACxf1-2', 68): {('unitPrice', 6343.29)}
+('B-AL3', 205): {('unitPrice', 368.94)}
+('B-AL1', 110): {('unitPrice', 368.94)}
+('B-AL3', 199): {('unitPrice', 368.94)}
+('B-AL3', 154): {('unitPrice', 368.94)}
+('B-AL3', 133): {('unitPrice', 368.94)}
+('2ACf1', 84): {('unitPrice', 1210.16)}
+('B-AL3', 140): {('unitPrice', 368.94)}
+('B-AL3', 178): {('unitPrice', 368.94)}
+('B-AL3', 112): {('unitPrice', 368.94)}
+('B-AL3', 168): {('unitPrice', 368.94)}
+('B-AL3', 213): {('unitPrice', 368.94)}
+('B-AL3', 192): {('unitPrice', 368.94)}
+('B-AL2', 111): {('unitPrice', 368.94)}
+('B-AL3', 185): {('unitPrice', 368.94)}
+('B-AL3', 127): {('unitPrice', 330.13)}
